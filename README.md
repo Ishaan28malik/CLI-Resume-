@@ -1,5 +1,5 @@
 
-Contributing starts here when u first learn ho to interact
+**Contributing starts here when u first learn ho to interact**
 
 this is going to help u out how to interact with 'cli'
 
