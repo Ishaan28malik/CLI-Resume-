@@ -4,4 +4,4 @@
 
 * It can be used to set as a terminal/command line PORTFOLIO.
  
-![Demo]("https://github.com/Ishaan28malik/CLI-Resume-/blob/master/output.gif")
+![Demo](https://github.com/Ishaan28malik/CLI-Resume-/blob/master/output.gif)
